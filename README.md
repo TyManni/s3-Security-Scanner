@@ -10,6 +10,11 @@ The Automated S3 Security Scanner helps AWS users proactively assess their S3 bu
 - Encryption Verification
 - Notification System
 
+## Branches
+- **main**: This branch contains the latest updates of the scanner.
+- **master**: This branch contains the source code for the S3 Security Scanner project. The main file is `lambda_function.py`, which contains the logic to assess the S3 bucket configurations.
+
+
 ## How to Use
 1. **Setup AWS Credentials:** Configure your AWS credentials and permissions to allow access to S3 and SNS.
 2. **Run the Scanner:** Execute the scanner script to initiate a comprehensive security check.
