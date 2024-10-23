@@ -22,4 +22,4 @@ The Automated S3 Security Scanner helps AWS users proactively assess their S3 bu
 ----------------------------------------------------------------
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<USERNAME>/s3-security-scanner.git
+   git clone https://github.com/<TyManni>/s3-security-scanner.git
